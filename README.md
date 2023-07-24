@@ -1,8 +1,8 @@
 ### Hi there 👋
 - Hi, I’m wujian
 - I'm an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
-- ![68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f476564306f6f2f636f756e742e737667](https://github.com/zhengrongwenjun/zhengrongwenjun/assets/92378211/15a90d64-1331-4abd-bccf-ea61ec0b3c97)
-![contributions](https://github.com/zhengrongwenjun/zhengrongwenjun/assets/92378211/330dda11-6bec-40ed-a093-572bba0e9e95)
+- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://github.com/zhengrongwenjun/zhengrongwenjun/assets/92378211/eef64a41-3cef-42ca-97c6-29c9da8f3b2f)
+
 
 <!--
 **zhengrongwenjun/zhengrongwenjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
