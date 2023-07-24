@@ -1,7 +1,8 @@
 ### Hi there 👋
 - Hi, I’m wujian
 - I'm an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.
-- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://github.com/zhengrongwenjun/zhengrongwenjun/assets/92378211/eef64a41-3cef-42ca-97c6-29c9da8f3b2f)
+- ![liunian](https://github.com/zhengrongwenjun/zhengrongwenjun/assets/92378211/75dda34b-449f-4381-a043-b8a7725c11c2)
+
 
 
 <!--
